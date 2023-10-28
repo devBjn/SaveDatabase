@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537049098485",
+    "project_id": "savedb-4727c",
+    "storage_bucket": "savedb-4727c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537049098485:android:f63499e260bcf311e9bdbc",
+        "android_client_info": {
+          "package_name": "com.example.savedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVr0xh9ucEafwD9WmuCSvfEeTRi4EnsDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
